@@ -1,13 +1,9 @@
-# Announcement: I have to take the project down in the next few days
-> Dear User,
-> 
-> We are writing to inform you that we have discovered two Home Assistant integration plug-ins developed by you ( https://github.com/Andre0512/hon and https://github.com/Andre0512/pyhOn ) that are in violation of our terms of service. Specifically, the plug-ins are using our services in an unauthorized manner which is causing significant economic harm to our Company.
-> We take the protection of our intellectual property very seriously and demand that you immediately cease and desist all illegal activities related to the development and distribution of these plug-ins. We also request that you remove the plug-ins from all stores and code hosting platforms where they are currently available.
-> Please be advised that we will take all necessary legal action to protect our interests if you fail to comply with this notice. We reserve the right to pursue all available remedies, including but not limited to monetary damages, injunctive relief, and attorney's fees.
-> We strongly urge you to take immediate action to rectify this situation and avoid any further legal action. If you have any questions or concerns, please do not hesitate to contact us.
-> 
-> Haier Europe Security and Governance Department
+# Notice to Haier: Do not attempt to contact me regarding the 1's and 0's contained in this repo.
 
+- This repo has been backed up and distributed to multiple locations in the event that a DMCA notice is used to silence code that does not belong to Haier, it's representatives (including legal), or affiliates.
+- If Haier, their representatives (including legal), or any of their affiliates attempt to make contact with me, they agree to pay a $10,000 CAD consulting fee to receive any response from myself on the matter.
+
+---
 
 **This python package is unofficial and is not related in any way to Haier. It was developed by reversed engineered requests and can stop working at anytime!**
 
